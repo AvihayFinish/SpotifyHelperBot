@@ -61,7 +61,7 @@ ngrok http 8000
 ```
 Update the `SPOTIFY_REDIRECT_URI` with the generated URL.
 
-5. **Start the server**
+5. **Start the server** <br>
 For production -
 ```bash
 npm start
